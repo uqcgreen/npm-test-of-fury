@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lerna": "^3.16.4"
+    "lerna": "^3.16.4",
+    "lodash": "^4.17.15"
   }
 }
