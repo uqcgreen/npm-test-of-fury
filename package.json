@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "lerna": "^3.16.4",
+    "lerna-changelog": "^0.8.2",
     "lodash": "^4.17.15"
   }
 }

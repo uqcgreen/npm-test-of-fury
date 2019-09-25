@@ -1,3 +1,3 @@
 # npm-package-of-fury
 
-This is a package of fury.  Fury!!!!!!!!!!!!!!!!!!!!!!!
+This is a package of fury.  Fury!!!!!!!!!!!!!!
