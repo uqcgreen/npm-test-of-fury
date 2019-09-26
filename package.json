@@ -1,5 +1,5 @@
 {
-  "name": "@uqcgreen/npm-test-of-fury",
+  "name": "@uq-its-ss/npm-test-of-fury",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,14 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/uqcgreen/npm-test-of-fury.git"
+    "type": "git",
+    "url": "https://github.com/uqcgreen/npm-test-of-fury.git"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lerna": "^3.16.4",
     "lerna-changelog": "^0.8.2",
     "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "lerna": "^3.16.4"
   }
 }
